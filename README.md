@@ -7,7 +7,8 @@ Basic todo application made with Tkinter Library of Python3 - 30Mins
 	<li>Download the <code>bello.py</code> file and place it in a directory.</li>
 	<li>Run the Python script in your terminal by <code>python3 bello.py</code> .</li>
 </ol>
-![Bello](https://raw.githubusercontent.com/anburocky3/Bello-Todo-GUI-Python-app/master/Screenshot.png "Bello Todo app")
+
+[![Bello Todo app](https://raw.githubusercontent.com/anburocky3/Bello-Todo-GUI-Python-app/master/Screenshot.png)]
 
 
 <p><strong>License:</strong> Open Source</p>
